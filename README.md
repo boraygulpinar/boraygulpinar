@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boray Gulpinar</h1>
+<h1 align="center">Hi, I'm Boray Gulpinar</h1>
 <h3 align="center">Jr. Backend Developer from Turkey</h3>
 
 - 📫 How to reach me **boray112@gmail.com**
